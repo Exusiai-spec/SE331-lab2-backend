@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 114514,
+      "category": "Live",
+      "title": "Live house",
+      "description": "Watch band live",
+      "location": "Shimokitazawa",
+      "date": "July 24, 2023",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Kita Yudai"
     }
   ]
 }
